@@ -1,2 +1,3 @@
 # node-ed
-Sample/tutorial node projects
+
+Node sample projects from tutorials, etc.
